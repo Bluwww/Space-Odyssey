@@ -48,3 +48,15 @@ Proyek ini dibangun dari awal (tanpa bantuan *game engine* instan) untuk mengeks
 4. **Mainkan:**
    Klik ganda pada file index.html untuk menjalankannya secara lokal di browser (Chrome, Brave, Firefox, atau Edge). Tidak membutuhkan instalasi server atau
    dependensi tambahan!
+
+## 👨‍💻 Tim Pengembang
+
+Game ini dikembangkan secara kolaboratif oleh tim mahasiswa Teknik Informatika dari **Universitas Katolik Widya Mandala Surabaya**. Proyek ini dibuat sebagai bentuk eksplorasi penerapan logika komputasi dan pemrograman berbasis web.
+
+**Anggota Tim:**
+* **Stanley Timothy Gunawan**
+* **Jeremy Christian**
+* **Phillipo M.A.B.**
+
+---
+*If you like this project, feel free to drop a ⭐ on this repository!*
