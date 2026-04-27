@@ -28,6 +28,23 @@ Proyek ini dibangun dari awal (tanpa bantuan *game engine* instan) untuk mengeks
 * **HTML5:** Digunakan untuk merancang struktur kanvas (*canvas area*) utama.
 * **CSS3:** Menangani elemen *styling* dan *layouting* antarmuka pengguna.
 * **Vanilla JavaScript:** Menjadi otak di balik keseluruhan game, mencakup fisika pergerakan, deteksi tabrakan (*collision detection*), sinkronisasi animasi, dan eksekusi *game loop*.
+
+## 🚀 Cara Menjalankan Game
+
+1. **Persiapan:**
    Repositori ini memuat aset resolusi tinggi menggunakan **Git LFS**. Pastikan kamu sudah menginstal Git LFS di komputermu, lalu jalankan perintah:
    ```bash
    git lfs install
+
+2. **Clone Repository:**
+   ```bash
+   git clone [https://github.com/Bluwww/Space-Odyysey.git](https://github.com/Bluwww/Space-Odyysey.git)
+
+3. **Buka Folder Game:**
+   Arahkan terminal ke dalam direktori game yang baru saja diunduh:
+   ```bash
+   cd Space-Odyysey/Space-Odyssey
+
+4. **Mainkan:**
+   Klik ganda pada file index.html untuk menjalankannya secara lokal di browser (Chrome, Brave, Firefox, atau Edge). Tidak membutuhkan instalasi server atau
+   dependensi tambahan!
